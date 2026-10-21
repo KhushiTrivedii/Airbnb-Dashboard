@@ -100,12 +100,18 @@ The dashboard helps translate listing and review data into observations that may
 
 ## 📷 Screenshots / Demo
 
-A PDF version of the dashboard is included to provide a static preview of the report.
+### 1. Overview Dashboard
+![Airbnb Overview Dashboard](Snapshots%20of%20Dashboard/overview.png)
 
-- **Dashboard Preview:** `Airbnb_Dashboard.pdf`
-- **Report Pages:** Overview, Ratings & Market Comparison, and Reviews & Host Insights.
+### 2. Ratings & Market Comparison
+![Airbnb Ratings Dashboard](Snapshots%20of%20Dashboard/ratings.png)
 
-Open the PDF to view the report pages and their visualizations. The PDF is a static export and does not retain Power BI slicer interactions or cross-filtering.
+### 3. Reviews & Host Insights
+![Airbnb Reviews Dashboard](Snapshots%20of%20Dashboard/reviews.png)
+
+### 📄 Full Dashboard Report
+
+[View the complete Airbnb Dashboard PDF](Airbnb%20Dashboard.pdf)
 
 ## 📁 Repository Contents
 
